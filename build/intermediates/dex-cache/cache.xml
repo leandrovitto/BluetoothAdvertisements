@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-6e281de505f1c66bfacfda142f694014b0017526.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ebe26c1687a8a9fc027158a8a21839e2a6a0960f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\classes-0e25062886ff032c69421ff7c21ba193f36033b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\classes-f52a11600c0b79056013717c702e76a2674aaec0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gamers\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-6b91df49bee2a94fa87567aa93ebf9234017ff20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Gamers\AndroidStudioProjects\BluetoothAdvertisements\Application\build\intermediates\pre-dexed\debug\classes-b21c07ed3c71733b5d47807c18a3d16751ac108f.jar" />
+    </item>
+
+</items>
